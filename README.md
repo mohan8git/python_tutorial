@@ -10,12 +10,11 @@ Topics:
 2. List
 3. String
 4. tuples
-5. string
-6. dictionaries
-7. classes
-8. exception
-9. files
-10. regex
+5. dictionaries
+6. classes
+7. exception
+8. files
+9. regex
 
 ---------------------------------
 
