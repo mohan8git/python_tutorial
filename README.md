@@ -19,5 +19,6 @@ Topics:
 ---------------------------------
 
 It follows the sequence based on the difficulty level and for better understanding.
+for every topic there is a seperate video available.
 
 
