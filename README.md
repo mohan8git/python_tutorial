@@ -21,4 +21,6 @@ Topics:
 It follows the sequence based on the difficulty level and for better understanding.
 for every topic there is a seperate video available.
 
+it is crashcourse for those who want to learn python in shortest period of time.
+
 
