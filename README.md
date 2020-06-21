@@ -1,4 +1,4 @@
-# python_tutorial
+# python_tutorial YOUTUBE 
 This repo contain all files that are used in tutorial video on youtube.
 
 Topics covered in the video are present here as ipynb files they can be used for reference.
