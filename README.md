@@ -27,3 +27,6 @@ It is made in hindi language due to the locality present near me.
 For more people we will also right in english.
 
 Please stay tuned for the latest videos it not only contain the other videos related to the alogrithm and Data Structures.
+
+Will share the link for the code forces question and answers.
+
