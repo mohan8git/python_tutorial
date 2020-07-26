@@ -13,10 +13,6 @@ Topics:
 5. dictionaries
 6. classes
 7. exception
-8. files
-9. regex
-
----------------------------------
-
+8. file
 
 
